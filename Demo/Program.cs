@@ -4,3 +4,5 @@ Console.WriteLine("Hello, World!");
 Console.Write("xin chao tat ca moi nguoi");
 
 Console.WriteLine("hello moi nguoi");
+
+Console.Write("chao mung cac ban ");
