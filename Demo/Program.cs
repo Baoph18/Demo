@@ -6,3 +6,11 @@ Console.Write("xin chao tat ca moi nguoi");
 Console.WriteLine("hello moi nguoi");
 
 Console.Write("chao mung cac ban ");
+
+Console.WriteLine("den voi lap trinh c#");
+
+Console.WriteLine("hom nay troi dep qua");
+
+Console.WriteLine("hom nay troi dep qua");
+
+Console.WriteLine("HEEEEEEEEEEEEEEEHHEEEEEEEEEe");
