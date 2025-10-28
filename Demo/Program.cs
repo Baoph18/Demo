@@ -13,5 +13,4 @@ Console.WriteLine("hom nay troi dep qua");
 
 Console.WriteLine("hom nay troi dep qua");
 
-Console.WriteLine("hom nay troi dep qua");
-Console.WriteLine("hom nay troi dep qua");
+Console.WriteLine("HEEEEEEEEEEEEEEEHHEEEEEEEEEe");
